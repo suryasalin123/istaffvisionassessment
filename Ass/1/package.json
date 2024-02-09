@@ -1,0 +1,28 @@
+{
+  "name": "surya",
+  "date_of_birth": "02-08-2002",
+  "gender": "male",
+  "nationality": "indian",
+  "kyc details":{
+    "name":"surya",
+    "father_name":"surendra",
+    "pan_id":"nnkass123f4",
+    "uid":"1234432156789"
+  },
+  "bank details":{
+    "bank name": "icici bank",
+    "account no": "123456789",
+    "ifsc Code": "ICIC00012"
+  },
+  "address": {
+    "branch": "yelahanka",
+    "city": "bangalore",
+    "state": "karnataka",
+    "pin_code": "562110",
+    "country": "india"
+  },
+  "contact": {
+    "email": "kotasuryasalin017@gmail.com.com",
+    "phone": "+918555072999"
+  }
+}
